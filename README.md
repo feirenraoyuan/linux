@@ -2,10 +2,9 @@
 https://www.bilibili.com/video/BV18r4y1878F?spm_id_from=333.851.b_7265636f6d6d656e64.5
 
 
-
-
-
 # github 加速访问技术
+
+# git 教程
 
 https://www.bilibili.com/video/BV1dK411p7RF?spm_id_from=333.337.search-card.all.click
 https://www.bilibili.com/video/BV1ua41167Ma?p=7
@@ -14,10 +13,7 @@ https://www.bilibili.com/video/BV1ua41167Ma?p=7
 
 # vscode 设置
 http://www.manongjc.com/detail/27-zzkznzrfybditlz.html
-
 https://blog.csdn.net/m0_46239267/article/details/122326724
-
-
 https://dandelioncloud.cn/article/details/1496469409261785089
 https://juejin.cn/post/6844903888332537864
 
