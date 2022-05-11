@@ -1,1 +1,33 @@
 ### token
+
+http://www.bubuko.com/infodetail-3811638.html
+https://www.cnblogs.com/sober-orange/p/git-token-push.html
+
+
+
+https://blog.csdn.net/FatalFlower/article/details/119717823
+https://blog.csdn.net/rzleilei/article/details/119702463
+https://blog.csdn.net/qq_22823581/article/details/119827438
+https://www.jianshu.com/p/f94ab86d49c8
+
+
+## 常用命令
+切换到git项目，使用下面的命令清空本地存储的账号密码。
+git config --local credential.helper ""
+
+
+git config --global credential.helper store
+
+
+
+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
+
+
+
+
+
+
+
+
+
+
