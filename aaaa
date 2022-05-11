@@ -14,13 +14,14 @@ https://www.jianshu.com/p/f94ab86d49c8
 ## 常用命令
 切换到git项目，使用下面的命令清空本地存储的账号密码。
 git config --local credential.helper ""
-
-
 git config --global credential.helper store
 
 
 
-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
+git remote set-url origin https://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@github.com/feirenraoyuan/linux.git
+git clone https://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@github.com/feirenraoyuan/linux.git
+
+
 
 
 
