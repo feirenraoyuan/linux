@@ -19,10 +19,11 @@ git config --global credential.helper store
 
 
 git remote set-url origin https://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@github.com/feirenraoyuan/linux.git
+
 git clone https://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@github.com/feirenraoyuan/linux.git
 
 
-<code> OpenSSL SSL_read: Connection was reset, errno 10054 </code>```
+<code> OpenSSL SSL_read: Connection was reset, errno 10054 </code>
 输入 git config --global http.sslVerify "false" ，解除SSL验证；
 
 
