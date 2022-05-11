@@ -27,7 +27,7 @@ git clone https://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@github.com/feirenraoy
 输入 git config --global http.sslVerify "false" ，解除SSL验证；
 
 
-===========================
+===
 git config user.name
 git config user.email
 
@@ -44,15 +44,5 @@ git remote add origin https://github.com/XXX
 git config --global http.sslVerify "false"
 
 3.更新 DNS 缓存
-cmd 窗口输入
-
-ipconfig /flushdns
-
-
-
-
-
-##########
-
-
+cmd 窗口输入: ipconfig /flushdns
 
