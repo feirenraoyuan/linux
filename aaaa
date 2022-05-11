@@ -22,7 +22,30 @@ git remote set-url origin https://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@githu
 git clone https://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@github.com/feirenraoyuan/linux.git
 
 
+OpenSSL SSL_read: Connection was reset, errno 10054
+输入 git config --global http.sslVerify "false" ，解除SSL验证；
 
+
+===========================
+git config user.name
+git config user.email
+
+修改，用户名，邮箱
+git config --global user.name "xxx"
+git config --global user.email "xxx"
+
+移除仓库，重新添加
+git remote rm origin
+git remote add origin https://github.com/XXX
+
+2.解除SSL认证
+在 Git Bash 中输入以下命令：
+git config --global http.sslVerify "false"
+
+3.更新 DNS 缓存
+cmd 窗口输入
+
+ipconfig /flushdns
 
 
 
