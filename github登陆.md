@@ -22,7 +22,7 @@ git remote set-url origin https://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@githu
 git clone https://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@github.com/feirenraoyuan/linux.git
 
 
-OpenSSL SSL_read: Connection was reset, errno 10054
+<code> OpenSSL SSL_read: Connection was reset, errno 10054 </code>```
 输入 git config --global http.sslVerify "false" ，解除SSL验证；
 
 
