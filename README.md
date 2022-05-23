@@ -1,12 +1,12 @@
 # web安全
-https://www.bilibili.com/video/BV18r4y1878F?spm_id_from=333.851.b_7265636f6d6d656e64.5
+https://www.bilibili.com/video/BV18r4y1878F
 
 
 # github 加速访问技术
 
 # git 教程
 
-https://www.bilibili.com/video/BV1dK411p7RF?spm_id_from=333.337.search-card.all.click
+https://www.bilibili.com/video/BV1dK411p7RF
 https://www.bilibili.com/video/BV1ua41167Ma?p=7
 
 
