@@ -1,0 +1,40 @@
+
+OAuth 2.0 的四种方式
+https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html
+
+https://www.jianshu.com/p/84a4b4a1e833/
+
+
+
+
+
+Nginx高级篇：从原理到实战，彻底搞懂Nginx
+https://zhuanlan.zhihu.com/p/431181851
+
+
+
+Win10搭建Jenkins部署Java项目（本机和远程Win10部署）
+https://www.cnblogs.com/jeffreyu/p/16215733.html
+
+
+
+
+服务器安装 Docker中安装与配置 SeaTable
+https://www.jianshu.com/p/5f0033b8709c
+
+
+为什么Kafka这么快
+https://juejin.cn/post/7088901090757836807
+
+
+
+MySQL8.0.x 版本安装步骤傻瓜式教程【官方版】
+https://www.cnblogs.com/rainbow-1/p/16119566.html
+
+
+
+制作成docker镜像
+https://juejin.cn/post/7087511347529220133
+
+为什么 Redis 要有哨兵机制？
+https://www.cnblogs.com/xiaolincoding/p/16287684.html
