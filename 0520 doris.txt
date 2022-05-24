@@ -1,0 +1,56 @@
+
+
+
+
+https://www.jianshu.com/p/794d9e2eba07
+https://www.jianshu.com/p/e4928e152caa
+https://zhuanlan.zhihu.com/p/411093925
+https://cloud.tencent.com/developer/article/1998331
+https://blog.51cto.com/flyfish225/5149143
+https://www.jianshu.com/p/2e3d00afc59d
+
+
+http://www.manongjc.com/detail/23-fnnliyyfyigcocz.html
+http://www.hainiubl.com/topics/75806
+https://blog.csdn.net/yang_shibiao/article/details/122733267
+
+
+
+微信  https://mp.weixin.qq.com/s/pnZgya-DcjhaktedIQcBOA
+https://mp.weixin.qq.com/s/geZ9BzLs3oN651N32zIVYA
+
+
+
+
+
+doris 操作
+https://www.likecs.com/show-305443430.html
+https://blog.csdn.net/chengyuqiang/article/details/119457089
+https://blog.csdn.net/qq_43688472/article/details/122752466
+
+
+
+
+
+
+
+Doris 部署 (CentOS 原生部署)
+http://www.hainiubl.com/topics/75806
+
+Doris集群环境搭建
+https://blog.csdn.net/chengyuqiang/article/details/119990240
+
+
+
+https://cloud.baidu.com/doc/DORIS/s/tkmealtx3
+https://cloud.baidu.com/doc/DORIS/s/xkmealr2d
+https://cloud.tencent.com/document/product/1387/70892
+
+
+HDFS 集群升级 HDFS 3.x 实践
+https://juejin.cn/post/7098140073710845965
+用 Jina 搭建一个电影推荐系统
+https://juejin.cn/post/7094597972964409381
+
+
+
