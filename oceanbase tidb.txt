@@ -1,0 +1,18 @@
+
+
+OceanBase安装部署
+https://www.modb.pro/db/47676
+https://www.bilibili.com/read/cv12865702/
+https://blog.csdn.net/gdrs206/article/details/122933818
+https://baijiahao.baidu.com/s?id=1724983855463192624
+https://zhuanlan.zhihu.com/p/497972298
+
+
+
+官网
+https://www.oceanbase.com/productAll#database
+https://docs.pingcap.com/zh/tidb/stable/migrate-large-mysql-to-tidb
+
+
+
+yum-config-manager --add-repo https://mirrors.aliyun.com/oceanbase/OceanBase.repo

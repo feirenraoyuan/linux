@@ -1,0 +1,10 @@
+Tomcat                    开源免费
+WebLogic                不开源不免费
+
+IBM的websphere
+Sun的Glassfish
+caucho的resin          https://caucho.com/products/resin/download
+JBoss
+
+东方通的Tongweb
+金蝶Apusic               http://zwfwsso.miit.gov.cn/
