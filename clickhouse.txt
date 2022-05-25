@@ -3,7 +3,6 @@ docker run -d --name ch-server --ulimit nofile=262144:262144 -p 8123:8123 -p 900
 
 
 user.xml
-
 <rao>
     <password>rao</password>
     <networks incl="networks" replace="replace">
@@ -14,7 +13,8 @@ user.xml
 </rao>
 
 
-
+config.xml
+<listen>0.0.0.0</listen>
 
 
 
