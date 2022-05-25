@@ -29,12 +29,11 @@ http://blog.51yip.com/clickhouse/2516.html
 https://blog.csdn.net/u013332124/article/details/122714966
 https://blog.csdn.net/dazuo_001/article/details/123364395
 
-如果要在 /etc/metrika.xml 中配置，需要确保metrika.xml已经被config.xml包含进去了：
 
-<remote_servers incl=“clickhouse_remote_servers”>                     remote_servers记得加incl属性
-<include_from>/etc/metrika.xml</include_from>                         将metrika.xml包含进来
+如果要在 /etc/metrika.xml 中配置，需要确保metrika.xml已经被config.xml包含进去了：
+<remote_servers incl=“clickhouse_remote_servers” />                    # remote_servers记得加incl属性      
 <zookeeper incl="zookeeper-servers" optional="true" />
-<include_from>/etc/clickhouse-server/metrika.xml</include_from>
+<include_from>/etc/clickhouse-server/metrika.xml</include_from>        # 将metrika.xml包含进来
 
 
 
