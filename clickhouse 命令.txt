@@ -22,6 +22,8 @@ select * from system.databases
 
 
 ### clickhouse 部署 ###
+rpm包下载地址：https://packages.clickhouse.com/rpm/stable/
+
 http://blog.51yip.com/clickhouse/2516.html
 
 https://blog.csdn.net/u013332124/article/details/122714966
