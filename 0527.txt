@@ -1,0 +1,117 @@
+
+clickhouse
+https://blog.csdn.net/Hehuyi_In/article/details/123303073
+https://www.aisoutu.com/a/2311221
+https://blog.csdn.net/kfyzjd2008/article/details/122428776
+https://www.cnblogs.com/itxiaoshen/p/16294271.html
+
+
+
+
+shell 循环
+https://blog.51cto.com/u_15064655/4550520
+https://www.cnblogs.com/xiaolincoding/tag/%E5%B0%8F%E9%B8%9F%E5%88%9D%E5%AD%A6Shell%E7%BC%96%E7%A8%8B/
+
+监控利器prometheus helm方式部署配置测试 
+https://blog.51cto.com/goome/2461792
+
+
+git
+https://www.cnblogs.com/iini/p/16300299.html?utm_source=gold_browser_extension
+
+
+mongodb
+https://www.cnblogs.com/Yee-Q/p/16299500.html?utm_source=gold_browser_extension
+
+
+
+
+
+
+
+k8s
+https://www.cnblogs.com/monkjavaer/p/16295210.html?utm_source=gold_browser_extension
+https://mp.weixin.qq.com/s/VYtyTU9_Dw9M5oHtvRfseA
+了解 Kubernetes 对象的管理工具
+http://events.jianshu.io/p/d8210546d2f6
+
+搭建单Master多Node的K8S
+https://blog.51cto.com/u_12023894/5180478
+
+
+了解日志架构和节点级日志
+https://www.jianshu.com/p/84c8b44dfc69
+
+
+
+k8s日志采集的解决方案思路梳理
+https://blog.51cto.com/u_12386780/5269933
+
+helm和tiller的安装
+https://www.jianshu.com/p/e3483d9439f2
+
+
+kubernetes集群上安装Helm，并部署应用
+https://blog.51cto.com/coderaction/3087521
+
+
+
+Golang（go语言）开发环境配置
+https://www.cnblogs.com/kohler21/p/16218721.html?utm_source=gold_browser_extension
+
+Docker从入门到放弃(1) Docker简介与安装
+https://www.cnblogs.com/guihai/p/16212204.html?utm_source=gold_browser_extension
+
+
+
+
+主流开源分布式图数据库 Benchmark
+https://blog.51cto.com/u_15529898/5283859
+
+
+
+
+
+K8S - Kubernetes(K8S)整体概述与组件架构通俗讲解 
+https://blog.51cto.com/u_11299290/5144618?b=totalstatistic
+
+
+
+
+普通程序员看k8s的账户管理
+https://www.cnblogs.com/mrvolleyball/p/10669186.html
+
+k8s常用命令
+https://www.yisu.com/zixun/15938.html
+
+
+shell脚本三剑客之sed 
+https://blog.51cto.com/u_15531598/5284973
+
+Linux内网渗透
+https://www.cnblogs.com/yokan/p/16300797.html?utm_source=gold_browser_extension
+
+
+
+2022 年 Kubernetes 的 4 种可替代方案 翻译
+https://blog.51cto.com/coderaction/5252393
+
+
+备战CKA每日一题——第14天 | Service和Pod的DNS记录
+https://blog.51cto.com/coderaction/3087552
+
+VsCode 的高效开源神器
+https://juejin.cn/post/7080882631629340708
+
+
+ssl
+https://mp.weixin.qq.com/s/4IpQ0yeXmec6xoe5U9ZTtQ
+
+
+
+运维监控系统概述
+https://blog.51cto.com/u_13579597/2730044
+
+
+基于Kubernetes构建企业Jenkins master/slave CI/CD平台
+https://www.cnblogs.com/cfzy/p/15692758.html?utm_source=gold_browser_extension
