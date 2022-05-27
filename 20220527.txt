@@ -60,7 +60,7 @@ Golang（go语言）开发环境配置
 https://www.cnblogs.com/kohler21/p/16218721.html?utm_source=gold_browser_extension
 
 Docker从入门到放弃(1) Docker简介与安装
-https://www.cnblogs.com/guihai/p/16212204.html?utm_source=gold_browser_extension
+https://www.cnblogs.com/guihai/p/16212204.html
 
 
 
