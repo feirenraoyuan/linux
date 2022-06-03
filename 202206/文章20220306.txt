@@ -1,68 +1,70 @@
-https://blog.51cto.com/u_15509075/5071328
 
+
+
+https://blog.51cto.com/u_15509075/5071328
 
 https://blog.51cto.com/u_15382049/5052087  redis
 
-https://blog.51cto.com/u_15382304/5053058  redisdµÄ¸ß¿ÉÓÃµÄÉı¼¶°æ£¨Ö÷´Ó¡¢ÉÚ±ø¡¢Cluster¼¯Èº£©
-https://blog.51cto.com/u_15380738/5050874     redis £¨Ö÷´Ó¸´ÖÆ ÉÚ±øÄ£Ê½ Èº¼¯Ä£Ê½£©
+https://blog.51cto.com/u_15382304/5053058  redisdçš„é«˜å¯ç”¨çš„å‡çº§ç‰ˆï¼ˆä¸»ä»ã€å“¨å…µã€Clusteré›†ç¾¤ï¼‰
+https://blog.51cto.com/u_15380738/5050874     redis ï¼ˆä¸»ä»å¤åˆ¶ å“¨å…µæ¨¡å¼ ç¾¤é›†æ¨¡å¼ï¼‰
 https://blog.51cto.com/u_15382300/5050659
 
-https://blog.51cto.com/u_15473594/5052464   ´î½¨²¢ÊµÏÖÖÇÄÜDNS
+https://blog.51cto.com/u_15473594/5052464   æ­å»ºå¹¶å®ç°æ™ºèƒ½DNS
 
-https://blog.51cto.com/u_12462495/5058706  Rancher Desktop ·ÃÎÊ Traefik Proxy ÒÇ±í°å
+https://blog.51cto.com/u_12462495/5058706  Rancher Desktop è®¿é—® Traefik Proxy ä»ªè¡¨æ¿
 
 
-https://blog.51cto.com/u_15382479/5050141    LVS+Keepalived¸ß¿ÉÓÃÈº¼¯
+https://blog.51cto.com/u_15382479/5050141    LVS+Keepalivedé«˜å¯ç”¨ç¾¤é›†
 
-https://blog.51cto.com/qikangwei/694243      named´î½¨ÖÇÄÜDNS
+https://blog.51cto.com/qikangwei/694243      namedæ­å»ºæ™ºèƒ½DNS
 https://blog.51cto.com/qikangwei/694243
-https://blog.51cto.com/u_15473594/5052462     ¼òÊöDNS·şÎñÆ÷Ô­Àí£¬²¢´î½¨Ö÷-´Ó·şÎñÆ÷
+https://blog.51cto.com/u_15473594/5052462     ç®€è¿°DNSæœåŠ¡å™¨åŸç†ï¼Œå¹¶æ­å»ºä¸»-ä»æœåŠ¡å™¨
 
 
-https://blog.51cto.com/yangxiongchun/5049213  mysql 5.7.30°²×°ÓëÖ÷´ÓÅäÖÃ
+https://blog.51cto.com/yangxiongchun/5049213  mysql 5.7.30å®‰è£…ä¸ä¸»ä»é…ç½®
 
-https://blog.51cto.com/u_11594671/5046834     gitlab´î½¨
-
-
-
-https://blog.51cto.com/u_14966640/5046340    µÚ¶ş½ÚIgress²¿Êğ°²×°£¨nginx£©
-
-https://blog.51cto.com/bigdatatoai/5067270  ¿ìËÙ°²×°k3s kubernetes¼¯Èº
-https://blog.51cto.com/key3feng/5051883     K8S Ö® Kubernetes ¼à¿Ø
-
-https://blog.51cto.com/netbloomy/5048593    kubeadm°²×°µ¥Master¶àNodeµÄkubernetes¼¯Èº
-
-https://blog.51cto.com/u_15533008/5074001    Ê¹ÓÃ KubeKey ¿ìËÙÀëÏß²¿Êğ K8s Óë KubeSphere
-https://blog.51cto.com/huanghai/5056050      Kubernetes¼¯ÈºÊµ¼ù-ÅÅ´í£¨01£©Node½ÚµãÖ¤Êé¹ıÆÚ
-https://blog.51cto.com/u_12462495/5068919   Ô­Éú¼ÓËÙÖĞ¹úÇøKubernetes°²×°
-https://blog.51cto.com/u_7932852/5069016     Kubernetes°²×°µ¥µã¼°¼¯Èº²¿Êğ
-https://blog.51cto.com/u_15533361/5076032   ×ÓÍø»®·Ö
-
-https://blog.51cto.com/u_15382481/5066671    ELK+Filebeat+Kafka·Ö²¼Ê½ÈÕÖ¾¹ÜÀíÆ½Ì¨´î½¨
-
-https://blog.51cto.com/u_12462495/5074239    ´ÓÈëÃÅµ½ÉÏÊÖ£ºÊ²Ã´ÊÇK8S³Ö¾Ã¾í
-
-https://blog.51cto.com/u_15382411/5066394    zookeeper¼¯Èº+kafka¼¯Èº ²¿Êğ
-
-https://blog.51cto.com/liangww/5075730        Zookeeper ¼¯Èº²¿Êğ
-https://blog.51cto.com/215687833/5075340     MFS·Ö²¼Ê½ÎÄ¼şÏµÍ³²¿Êğ
-https://blog.51cto.com/u_15473594/5075861     ¶ş½øÖÆ°²×°mariadb10.4
-
-https://blog.51cto.com/wljslmz/5075827       Linux ÖĞµÄ BusyBox ÊÇÊ²Ã´£¿
-https://blog.51cto.com/u_7932852/5073674     ÊÖ°ÑÊÖ½ÌÄãÈçºÎ´î½¨Hadoopµ¥»úÎ±¼¯Èº
-
-https://blog.51cto.com/qchenz/5074309        redhat¾µÏñ¼°yumÔ´ÅäÖÃ
-https://blog.51cto.com/u_12040959/5075900    kvmÊ¹ÓÃÖ®virshÃüÁîÏê½â
+https://blog.51cto.com/u_11594671/5046834     gitlabæ­å»º
 
 
 
-https://blog.51cto.com/saynaihe/5065914    ¼ÇÒ»´Îkubernetes EvictedµÄ´¦Àí
+https://blog.51cto.com/u_14966640/5046340    ç¬¬äºŒèŠ‚Igresséƒ¨ç½²å®‰è£…ï¼ˆnginxï¼‰
+
+https://blog.51cto.com/bigdatatoai/5067270  å¿«é€Ÿå®‰è£…k3s kubernetesé›†ç¾¤
+https://blog.51cto.com/key3feng/5051883     K8S ä¹‹ Kubernetes ç›‘æ§
+
+https://blog.51cto.com/netbloomy/5048593    kubeadmå®‰è£…å•Masterå¤šNodeçš„kubernetesé›†ç¾¤
+
+https://blog.51cto.com/u_15533008/5074001    ä½¿ç”¨ KubeKey å¿«é€Ÿç¦»çº¿éƒ¨ç½² K8s ä¸ KubeSphere
+https://blog.51cto.com/huanghai/5056050      Kubernetesé›†ç¾¤å®è·µ-æ’é”™ï¼ˆ01ï¼‰NodeèŠ‚ç‚¹è¯ä¹¦è¿‡æœŸ
+https://blog.51cto.com/u_12462495/5068919   åŸç”ŸåŠ é€Ÿä¸­å›½åŒºKuberneteså®‰è£…
+https://blog.51cto.com/u_7932852/5069016     Kuberneteså®‰è£…å•ç‚¹åŠé›†ç¾¤éƒ¨ç½²
+https://blog.51cto.com/u_15533361/5076032   å­ç½‘åˆ’åˆ†
+
+https://blog.51cto.com/u_15382481/5066671    ELK+Filebeat+Kafkaåˆ†å¸ƒå¼æ—¥å¿—ç®¡ç†å¹³å°æ­å»º
+
+https://blog.51cto.com/u_12462495/5074239    ä»å…¥é—¨åˆ°ä¸Šæ‰‹ï¼šä»€ä¹ˆæ˜¯K8SæŒä¹…å·
+
+https://blog.51cto.com/u_15382411/5066394    zookeeperé›†ç¾¤+kafkaé›†ç¾¤ éƒ¨ç½²
+
+https://blog.51cto.com/liangww/5075730        Zookeeper é›†ç¾¤éƒ¨ç½²
+https://blog.51cto.com/215687833/5075340     MFSåˆ†å¸ƒå¼æ–‡ä»¶ç³»ç»Ÿéƒ¨ç½²
+https://blog.51cto.com/u_15473594/5075861     äºŒè¿›åˆ¶å®‰è£…mariadb10.4
+
+https://blog.51cto.com/wljslmz/5075827       Linux ä¸­çš„ BusyBox æ˜¯ä»€ä¹ˆï¼Ÿ
+https://blog.51cto.com/u_7932852/5073674     æ‰‹æŠŠæ‰‹æ•™ä½ å¦‚ä½•æ­å»ºHadoopå•æœºä¼ªé›†ç¾¤
+
+https://blog.51cto.com/qchenz/5074309        redhaté•œåƒåŠyumæºé…ç½®
+https://blog.51cto.com/u_12040959/5075900    kvmä½¿ç”¨ä¹‹virshå‘½ä»¤è¯¦è§£
 
 
-https://blog.51cto.com/qchenz/5074629    Kubernetes°¢ÀïÔÆYUM¸üĞÂÔ´k8s¹úÄÚÔ´
-https://blog.51cto.com/u_15148274/5045180   centos7 ÏÂ ´î½¨±¾µØyumÔ´
 
-https://blog.51cto.com/qchenz/5074129     centos7¸ùÄ¿Â¼À©Èİ
+https://blog.51cto.com/saynaihe/5065914    è®°ä¸€æ¬¡kubernetes Evictedçš„å¤„ç†
+
+
+https://blog.51cto.com/qchenz/5074629    Kubernetesé˜¿é‡Œäº‘YUMæ›´æ–°æºk8så›½å†…æº
+https://blog.51cto.com/u_15148274/5045180   centos7 ä¸‹ æ­å»ºæœ¬åœ°yumæº
+
+https://blog.51cto.com/qchenz/5074129     centos7æ ¹ç›®å½•æ‰©å®¹
 
 
 
