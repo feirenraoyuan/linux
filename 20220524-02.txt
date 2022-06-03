@@ -1,0 +1,17 @@
+
+
+
+
+k8s高可用三台master部署
+https://blog.51cto.com/chenhao6/5322583
+
+Dashboard-v2.2.0部署
+https://blog.51cto.com/lidabai/5322319
+
+
+jenkins
+https://blog.51cto.com/u_15543482/5323894
+
+
+了解 Zookeeper 的三种安装方式
+https://blog.51cto.com/u_14129797/5323884
