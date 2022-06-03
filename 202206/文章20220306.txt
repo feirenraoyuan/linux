@@ -1,0 +1,70 @@
+https://blog.51cto.com/u_15509075/5071328
+
+
+https://blog.51cto.com/u_15382049/5052087  redis
+
+https://blog.51cto.com/u_15382304/5053058  redisd的高可用的升级版（主从、哨兵、Cluster集群）
+https://blog.51cto.com/u_15380738/5050874     redis （主从复制 哨兵模式 群集模式）
+https://blog.51cto.com/u_15382300/5050659
+
+https://blog.51cto.com/u_15473594/5052464   搭建并实现智能DNS
+
+https://blog.51cto.com/u_12462495/5058706  Rancher Desktop 访问 Traefik Proxy 仪表板
+
+
+https://blog.51cto.com/u_15382479/5050141    LVS+Keepalived高可用群集
+
+https://blog.51cto.com/qikangwei/694243      named搭建智能DNS
+https://blog.51cto.com/qikangwei/694243
+https://blog.51cto.com/u_15473594/5052462     简述DNS服务器原理，并搭建主-从服务器
+
+
+https://blog.51cto.com/yangxiongchun/5049213  mysql 5.7.30安装与主从配置
+
+https://blog.51cto.com/u_11594671/5046834     gitlab搭建
+
+
+
+https://blog.51cto.com/u_14966640/5046340    第二节Igress部署安装（nginx）
+
+https://blog.51cto.com/bigdatatoai/5067270  快速安装k3s kubernetes集群
+https://blog.51cto.com/key3feng/5051883     K8S 之 Kubernetes 监控
+
+https://blog.51cto.com/netbloomy/5048593    kubeadm安装单Master多Node的kubernetes集群
+
+https://blog.51cto.com/u_15533008/5074001    使用 KubeKey 快速离线部署 K8s 与 KubeSphere
+https://blog.51cto.com/huanghai/5056050      Kubernetes集群实践-排错（01）Node节点证书过期
+https://blog.51cto.com/u_12462495/5068919   原生加速中国区Kubernetes安装
+https://blog.51cto.com/u_7932852/5069016     Kubernetes安装单点及集群部署
+https://blog.51cto.com/u_15533361/5076032   子网划分
+
+https://blog.51cto.com/u_15382481/5066671    ELK+Filebeat+Kafka分布式日志管理平台搭建
+
+https://blog.51cto.com/u_12462495/5074239    从入门到上手：什么是K8S持久卷
+
+https://blog.51cto.com/u_15382411/5066394    zookeeper集群+kafka集群 部署
+
+https://blog.51cto.com/liangww/5075730        Zookeeper 集群部署
+https://blog.51cto.com/215687833/5075340     MFS分布式文件系统部署
+https://blog.51cto.com/u_15473594/5075861     二进制安装mariadb10.4
+
+https://blog.51cto.com/wljslmz/5075827       Linux 中的 BusyBox 是什么？
+https://blog.51cto.com/u_7932852/5073674     手把手教你如何搭建Hadoop单机伪集群
+
+https://blog.51cto.com/qchenz/5074309        redhat镜像及yum源配置
+https://blog.51cto.com/u_12040959/5075900    kvm使用之virsh命令详解
+
+
+
+https://blog.51cto.com/saynaihe/5065914    记一次kubernetes Evicted的处理
+
+
+https://blog.51cto.com/qchenz/5074629    Kubernetes阿里云YUM更新源k8s国内源
+https://blog.51cto.com/u_15148274/5045180   centos7 下 搭建本地yum源
+
+https://blog.51cto.com/qchenz/5074129     centos7根目录扩容
+
+
+
+
+
